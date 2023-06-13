@@ -153,4 +153,16 @@ footer {
   text-align: center;
   font-size: 14px;
 }
+
+@media{
+:root {
+  --bg-url: url(../assets/desktop.jpg);
+}
+
+.light {
+  --bg-url: url(../assets/desktop-light.jpg);
+
+}
+
+}
   
