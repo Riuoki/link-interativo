@@ -11,7 +11,7 @@
   --surface-color:rgba(255, 255, 255, 0.05);
   --surface-color-hover:rgba(0,0,0,0.02);
   --highlight-color: rgba(255, 255, 255, 0.2);
-  --switch-bg-url: url(../assets/moon-stars.svg);
+  --switch-bg-url: url(./assets/moon-stars.svg);
 }
 
 .light{
